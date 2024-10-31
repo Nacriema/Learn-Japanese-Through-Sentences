@@ -15,6 +15,12 @@ Most frequently used sentences in Japanese (5500 sentences)
 電気 を 消す のを 忘れたよ。Đừng quên tắt điện nhé ?
 (denki wo kesu nowo wasuretayo)
 
+こんなに　遅く　まで　何を　しているの。Trễ như thế này mà còn làm gì thế ?
+(kon nani osoku made naniwo shiteiruno) 
+
+寝る　時間　だよ。Đến giờ ngủ rồi đó.
+(neru jikan dayo)
+
 
 ## Checklist
 - [x] 01/11/2024

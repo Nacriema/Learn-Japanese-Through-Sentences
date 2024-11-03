@@ -22,5 +22,10 @@ Most frequently used sentences in Japanese (5500 sentences)
 (neru jikan dayo)
 
 
+## Songs
+
+* [Sakurairo Mau Koro - Lyrics](./songs/桜色舞うころ(%20Sakurairo%20Mau%20Koro%20).md)
+
 ## Checklist
 - [x] 01/11/2024
+- [x] 03/11/2024

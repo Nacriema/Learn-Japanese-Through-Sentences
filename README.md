@@ -30,7 +30,7 @@ Most frequently used sentences in Japanese (5500 sentences)
 
 ### b. Minano nihon go
 * [Lesson 9](./mina_no_nihongo/Lesson9.md)
-
+* [Lesson 10](./mina_no_nihongo/Lesson10.md)
 ## Songs
 * [Sakurairo Mau Koro - Lyrics](./songs/桜色舞うころ(%20Sakurairo%20Mau%20Koro%20).md)
 

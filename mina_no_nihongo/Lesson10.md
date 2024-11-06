@@ -1,10 +1,9 @@
 # New words
 * 千葉県 `[ちばけん]`: Chiba Prefecture
 * 県 `[けん]`: Prefecture (Quan)
-* 近く `[ちかく]`: Near
+* 近く `[ちかく]`: Near != 遠い `[tooi]`: Far　
 * 庭 `[にわ]`: Garden
-* 猫　`[ねこ]`: Cat 
-* 犬 `[いぬ]`: Dog
+* 猫　`[ねこ]`: Cat != 犬 `[いぬ]`: Dog
 * 箱　`[はこ]`: Box
 * など `[nado]`: Etc.
 * 会議室　`[かいぎしつ][Kaigijitsu]`: Meeting room
@@ -17,15 +16,13 @@
 * 女の人 `[おんなのひと]`: A woman
 * あそこ `[asoko]`: Over there
 * あの　`[ano]`: That
-* 白い　`[しろい]`: White
-* 黒い　`[くろい]`: Black
-* 中 `[なか]`: Inside
+* 白い　`[しろい]`: White != 黒い　`[くろい]`: Black
+* 中 `[なか]`: Inside != 外 `[そと]`: Outside
 * どうも `[doomo]`: Thank you
-* 右 `[みぎ]`: Right
-* 左 `[ひだり]`: Left
+* 右 `[みぎ]`: Right != 左 `[ひだり]`: Left
 * スパイス・コーナー `[すぱいす　こな]`: Spice (gia vi) corner
 * 奥 `[おく]`: Corner (inside)
-* 下　`[した]`: Under
+* 下　`[した]`: Under != 上 `[うえ]`: Above
 * 段目 `[だんめ]`: Row, Stage
 *　目 `[め]`: Eye　
 

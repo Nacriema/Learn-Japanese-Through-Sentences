@@ -27,6 +27,7 @@ Most frequently used sentences in Japanese (5500 sentences)
 * [No.1 Communicating a sense of gratidude](./nhk/EasyJapaneseForWork/No.1_Communicating_a_sense_of_gratitude.md)
 * [No.2 How to politely ask someonw to repeat](./nhk/EasyJapaneseForWork/No.2_How_to_politely_ask_someone_to_repeat_something.md)
 * [No.3 Expressing an opinion consisely](./nhk/EasyJapaneseForWork/No.3_Expressing_an_opinion_consisely.md)
+* [No.4 How to make explanations using photos and other materials](./nhk/EasyJapaneseForWork/No.4_How_to_make_explanations_using_photos_and_other_materials.md)
 
 ### b. Minano nihon go
 * [Lesson 9](./mina_no_nihongo/Lesson9.md)

@@ -24,7 +24,7 @@
 * 奥 `[おく]`: Corner (inside)
 * 下　`[した]`: Under != 上 `[うえ]`: Above
 * 段目 `[だんめ]`: Row, Stage
-*　目 `[め]`: Eye　
+* 目 `[め]`: Eye　
 
 # Fomular
 * 机の　上　に　あります。

@@ -24,9 +24,20 @@
 * ご覧　ください `[ごらん　。。。]`: Please see
 * 次　に　。。。 `[つぎ　に]`: Next ...
 * 最後　に　。。。`[さいご　に]`: Last ...
+* ご　説明　します。　`[ご　せつ　めい　。。。]`: I will explain ...
 * 説　`[せつ]`: Theory
 * 説得　`[せっとく]`: Persuasion
-* ご　説明　します。　`[ご　せつ　めい　。。。]`: I will explain ...
+* 解説　`[かいせつ]`: Commentary
+* 湯　`[ゆ]`: Hot
+* 熱い　`[あつい]` Hot != 寒い　`[さむい]` Cold
+* 銭湯　`[せんとう]`: Public bath
+* スパ　銭湯: Spa bathhouse
+* 手ぶら: Don't need to bring anything
+* 掛け湯　`[かけゆ]`: Put some hot water to wash
+* いい　湯加減　`[。。。ゆかげん]`: Kimochi, when inside the hot water
+* 8階 `[はち　かい]`: 8th Floor
+* 練習　`[れんしゅ]`: Practice
+* 自由　`[じゆ]`: Freedom
 
 ## Sentences
 * 一　時間　ですね。`[いち　じかん　。。。]`: It's one hour.

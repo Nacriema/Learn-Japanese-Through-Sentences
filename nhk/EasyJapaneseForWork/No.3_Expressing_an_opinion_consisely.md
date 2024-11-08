@@ -4,7 +4,7 @@
 * 水族館　`[すいぞくかん]`: public aquarium
 * おすすめ `[osusume]`: recommendation
 * 理由　`[riyuu]`: reason
-*　一つ目は　`[hitotsume wa]`: the first one is
+* 一つ目は　`[hitotsume wa]`: the first one is
 * 二つ目 の　理由　は　`[futatsume no riyuu wa]`: reason two
 * 何故　`[naze]`: why
 * 居酒屋 `[izakaya]`: pub

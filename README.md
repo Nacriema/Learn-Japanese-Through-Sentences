@@ -40,3 +40,4 @@ Most frequently used sentences in Japanese (5500 sentences)
 - [x] 03/11/2024
 - [x] 04/11/2024
 - [x] 05/11/2024
+- [x] 08/11/2024

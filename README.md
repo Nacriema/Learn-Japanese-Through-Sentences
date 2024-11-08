@@ -1,26 +1,5 @@
 # Learn-Japanese-Through-Sentences
-Most frequently used sentences in Japanese (5500 sentences)
-
-## 1. Sentences and meaning
-
-今晩 早く 寝ます。Tối nay tôi sẽ ngủ sớm
-(konban hayaku nematsu)
-
-明日 早く 起きな ければ なりません。Ngày mai tôi sẽ dậy sớm.
-(ashita hayaku oki na kereba  narimasen)
-
-まだ 起き ているの。Bạn thức dậy chưa ?
-(mada oki teiruno)
-
-電気 を 消す のを 忘れたよ。Đừng quên tắt điện nhé ?
-(denki wo kesu nowo wasuretayo)
-
-こんなに　遅く　まで　何を　しているの。Trễ như thế này mà còn làm gì thế ?
-(kon nani osoku made naniwo shiteiruno) 
-
-寝る　時間　だよ。Đến giờ ngủ rồi đó.
-(neru jikan dayo)
-
+Learning Japanese from difference sources.
 
 ## 2. NHK
 ### a. Japanese for work
@@ -29,10 +8,11 @@ Most frequently used sentences in Japanese (5500 sentences)
 * [No.3 Expressing an opinion consisely](./nhk/EasyJapaneseForWork/No.3_Expressing_an_opinion_consisely.md)
 * [No.4 How to make explanations using photos and other materials](./nhk/EasyJapaneseForWork/No.4_How_to_make_explanations_using_photos_and_other_materials.md)
 
-### b. Minano nihon go
+## 3. みんな　の　日本語
 * [Lesson 9](./mina_no_nihongo/Lesson9.md)
 * [Lesson 10](./mina_no_nihongo/Lesson10.md)
-## Songs
+
+## ４. Songs
 * [Sakurairo Mau Koro - Lyrics](./songs/桜色舞うころ(%20Sakurairo%20Mau%20Koro%20).md)
 
 ## Checklist

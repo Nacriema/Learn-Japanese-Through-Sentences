@@ -17,7 +17,7 @@
 * あそこ `[asoko]`: Over there
 * あの　`[ano]`: That
 * 白い　`[しろい]`: White != 黒い　`[くろい]`: Black
-* 中 `[なか]`: Inside != 外 `[そと]`: Outside
+* 中 `[なか]`: Inside != 外 `[そと] / がい]`: Outside
 * どうも `[doomo]`: Thank you
 * 右 `[みぎ]`: Right != 左 `[ひだり]`: Left
 * スパイス・コーナー `[すぱいす　こな]`: Spice (gia vi) corner

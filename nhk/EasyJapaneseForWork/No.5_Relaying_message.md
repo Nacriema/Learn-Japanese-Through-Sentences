@@ -31,7 +31,8 @@
 * 背中　を　流す。 `[せなか　を　ながす]`: Wash your back
 
 * 極　`[ごく / きょく]`: Very 〜　とても
-* 極楽 `[ごくらく]`: Paradise (feel like in haven)
+* 極楽 `[ごくらく]`: Feel like in haven
+* 楽園 `[らくえん]`: Paradise
 
 
 ## Sentences

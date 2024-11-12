@@ -10,6 +10,14 @@ Learning Japanese from difference sources.
 * [No.5. Relaying message](./nhk/EasyJapaneseForWork/No.5_Relaying_message.md)
 
 ## 2. みんな　の　日本語
+* [Lesson 1 - To be updated]()
+* [Lesson 2 - To be updated]()
+* [Lesson 3 - To be updated]()
+* [Lesson 4 - To be updated]()
+* [Lesson 5 - To be updated]()
+* [Lesson 6 - To be updated]()
+* [Lesson 7 - To be updated]()
+* [Lesson 8](./mina_no_nihongo/Lesson8.md)
 * [Lesson 9](./mina_no_nihongo/Lesson9.md)
 * [Lesson 10](./mina_no_nihongo/Lesson10.md)
 
@@ -25,4 +33,6 @@ Learning Japanese from difference sources.
 - [x] 04/11/2024
 - [x] 05/11/2024
 - [x] 08/11/2024
+- [x] 10/11/2024
 - [x] 11/11/2024
+- [x] 12/11/2024

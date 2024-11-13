@@ -27,7 +27,10 @@ Learning Japanese from difference sources.
 ## 4. Forums
 * [Japanese Stack Exchange](https://japanese.stackexchange.com/)
 
-## 4. Checklist
+## 5. About JLPT
+* [JPLT N5](./JLPT/info.md)
+
+## 6. Checklist
 - [x] 01/11/2024
 - [x] 03/11/2024
 - [x] 04/11/2024

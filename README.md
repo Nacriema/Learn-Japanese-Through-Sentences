@@ -1,5 +1,5 @@
 # Learn-Japanese-Through-Sentences
-Learning Japanese from difference sources.
+Learning Japanese from difference sources. Target efficiency in Japanese (N1)
 
 ## 1. NHK
 ### a. Japanese for work
@@ -33,7 +33,10 @@ Learning Japanese from difference sources.
 ## 6. About JLPT
 * [JPLT N5](./JLPT/info.md)
 
-## 7. Checklist
+## 7. Certificate
+**TODO**: Update certificate here when pass each level of JLPT
+
+## 8. Checklist
 - [x] 01/11/2024
 - [x] 03/11/2024
 - [x] 04/11/2024

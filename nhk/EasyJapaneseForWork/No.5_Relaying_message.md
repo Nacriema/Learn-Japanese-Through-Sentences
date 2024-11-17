@@ -34,6 +34,9 @@
 * 極楽 `[ごくらく]`: Feel like in haven
 * 楽園 `[らくえん]`: Paradise
 
+* よく: Often
+* 今から: From now
+* 使い `[つかい]`: Use
 
 ## Sentences
 * こちらこそ　よろしく　＝＝　よろしくお願いします　`[よろしくおねがいします]`: Rất mong nhận được sự giúp đỡ

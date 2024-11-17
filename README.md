@@ -8,6 +8,7 @@ Learning Japanese from difference sources. Target efficiency in Japanese (N1)
 * [No.3 Expressing an opinion consisely](./nhk/EasyJapaneseForWork/No.3_Expressing_an_opinion_consisely.md)
 * [No.4 How to make explanations using photos and other materials](./nhk/EasyJapaneseForWork/No.4_How_to_make_explanations_using_photos_and_other_materials.md)
 * [No.5. Relaying message](./nhk/EasyJapaneseForWork/No.5_Relaying_message.md)
+* [No.6. Obtaining permission](./nhk/EasyJapaneseForWork/No.6_Obtaining_permission.md)
 
 ## 2. みんな　の　日本語
 * [Lesson 1 - To be updated]()
@@ -46,3 +47,4 @@ Learning Japanese from difference sources. Target efficiency in Japanese (N1)
 - [x] 11/11/2024
 - [x] 12/11/2024
 - [x] 14/11/2024
+- [x] 17/11/2024

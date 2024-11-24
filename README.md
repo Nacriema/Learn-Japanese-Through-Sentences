@@ -54,3 +54,4 @@ Learning Japanese from difference sources. Target efficiency in Japanese (N1)
 - [x] 21/11/2024
 - [x] 22/11/2024
 - [x] 23/11/2024
+- [x] 24/11/2024

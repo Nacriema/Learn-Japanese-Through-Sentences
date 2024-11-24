@@ -21,6 +21,7 @@ Learning Japanese from difference sources. Target efficiency in Japanese (N1)
 * [Lesson 8](./mina_no_nihongo/Lesson8.md)
 * [Lesson 9](./mina_no_nihongo/Lesson9.md)
 * [Lesson 10](./mina_no_nihongo/Lesson10.md)
+* [Lesson 11](./mina_no_nihongo/Lesson11.md)
 
 ## 3. Songs
 * [Sakurairo Mau Koro - Lyrics](./songs/桜色舞うころ(%20Sakurairo%20Mau%20Koro%20).md)
@@ -28,8 +29,9 @@ Learning Japanese from difference sources. Target efficiency in Japanese (N1)
 ## 4. Topics
 * [Wh-Question in Japanese](./topics/Wh-question.md)
 
-## 5. Forums
+## 5. Forums and Videos
 * [Japanese Stack Exchange](https://japanese.stackexchange.com/)
+* [Tiếng Nhật Daisuki](https://www.youtube.com/@TiengNhatDaisuki28)
 
 ## 6. About JLPT
 * [JPLT N5](./JLPT/info.md)
@@ -48,3 +50,7 @@ Learning Japanese from difference sources. Target efficiency in Japanese (N1)
 - [x] 12/11/2024
 - [x] 14/11/2024
 - [x] 17/11/2024
+- [x] 19/11/2024
+- [x] 21/11/2024
+- [x] 22/11/2024
+- [x] 23/11/2024

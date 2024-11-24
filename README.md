@@ -22,6 +22,7 @@ Learning Japanese from difference sources. Target efficiency in Japanese (N1)
 * [Lesson 9](./mina_no_nihongo/Lesson9.md)
 * [Lesson 10](./mina_no_nihongo/Lesson10.md)
 * [Lesson 11](./mina_no_nihongo/Lesson11.md)
+* [Lesson 12](./mina_no_nihongo/Lesson12.md) 
 
 ## 3. Songs
 * [Sakurairo Mau Koro - Lyrics](./songs/桜色舞うころ(%20Sakurairo%20Mau%20Koro%20).md)
